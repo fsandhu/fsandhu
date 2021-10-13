@@ -3,10 +3,10 @@
 </div>  
   
 
-### <div align="center">I'm Fateh Sandhu, a CompSci Major with minors in Business and Mathematics 🦍 About to graduate (2022) 🎓</div>  
+### <div align="center">I'm Fateh Sandhu, a CompSci Major with minors in Business and Mathematics 🏫🎒 About to graduate (2022) 👨‍🎓</div>  
   
 
-- 🔭 I’m currently working with Microsoft through my university  
+- 🔭 I’m working with Microsoft through my university  
   
 
 - 🌱 I’m currently learning Front-End development  
