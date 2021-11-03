@@ -12,7 +12,7 @@
 - 🌱 I’m currently learning Front-End development  
   
 
-- ⚡ Fun fact: I use tabs over spaces, who doesn't?  
+- ⚡ Fun fact: I didn't know how big an impact your GitHub had on your job applications.  
   
 
 <br/>  
