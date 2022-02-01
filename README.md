@@ -6,10 +6,10 @@
 ### <div align="center">I'm Fateh Sandhu, a CompSci Major with minors in Business and Mathematics 🏫🎒 About to graduate (2022) 👨‍🎓</div>  
   
 
-- 🔭 I’m working with Microsoft through my university  
+- 🔭 I’m working at FNBO as a SDE Intern and with Microsoft through my university  
   
 
-- 🌱 I’m currently learning Front-End development  
+- 🌱 I’m currently learning Front-End development
   
 
 - ⚡ Fun fact: I didn't know how big an impact your GitHub had on your job applications.  
