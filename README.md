@@ -5,10 +5,7 @@
 
 ### <div align="center">I'm Fateh Sandhu, a CompSci Major with minors in Business and Mathematics 🏫🎒 About to graduate (2022) 👨‍🎓</div>  
   
-
-- 🔭 I’m working at FNBO as a SDE Intern and with Microsoft through my university  
   
-
 - 🌱 I’m currently learning Front-End development
   
 
